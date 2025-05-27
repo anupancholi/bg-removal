@@ -4,7 +4,7 @@ BG Remover is a full-stack AI SaaS application that enables users to remove imag
 
 ## 🌐 Live Demo
 
-🔗 [[Add your deployment link here](https://bg-removal-d9bi.vercel.app)]
+🔗 [[click here](https://bg-removal-d9bi.vercel.app)]
 
 ## ✨ Features
 

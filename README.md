@@ -29,4 +29,6 @@ BG Remover is a full-stack AI SaaS application that enables users to remove imag
 
 ## 📷 Screenshots
 
-> 
+> <img width="1440" alt="Screenshot 2025-05-27 at 13 57 47" src="https://github.com/user-attachments/assets/7563fd98-0eab-4e66-86a3-db639254ee07" />
+
+> <img width="1440" alt="Screenshot 2025-05-27 at 14 00 56" src="https://github.com/user-attachments/assets/3ffdf71f-1ab8-4672-9929-42ac42d0083d" />

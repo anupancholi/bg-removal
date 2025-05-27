@@ -13,7 +13,7 @@ const Steps = () => {
                     <img className='max-w-9' src={assets.upload_icon} alt="" />
                     <div>
                         <p className='text-xl font-medium'>Upload image</p>
-                        <p className='text-sm text-neutral-500 mt-1'>Let’s get started! Upload any image you’d like to <br /> remove the background from. </p>
+                        <p className='text-sm text-neutral-500 mt-1'>This is a demo text, will replace it later. <br /> This is a demo..</p>
                     </div>
                 </div>
 
@@ -21,8 +21,7 @@ const Steps = () => {
                     <img className='max-w-9' src={assets.remove_bg_icon} alt="" />
                     <div>
                         <p className='text-xl font-medium'>Remove background</p>
-                        <p className='text-sm text-neutral-500 mt-1'>Our AI will instantly process your image and remove the background with precision.
-                            <br /> No editing or design skills needed.</p>
+                        <p className='text-sm text-neutral-500 mt-1'>This is a demo text, will replace it later. <br /> This is a demo..</p>
                     </div>
                 </div>
 
@@ -30,8 +29,7 @@ const Steps = () => {
                     <img className='max-w-9' src={assets.download_icon} alt="" />
                     <div>
                         <p className='text-xl font-medium'>Download image</p>
-                        <p className='text-sm text-neutral-500 mt-1'>Preview and download your new image with a transparent background.
-                            <br /> Perfect for e-commerce, design, or social media use.</p>
+                        <p className='text-sm text-neutral-500 mt-1'>This is a demo text, will replace it later. <br /> This is a demo..</p>
                     </div>
                 </div>
 

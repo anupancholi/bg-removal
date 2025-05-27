@@ -21,8 +21,8 @@ const Steps = () => {
                     <img className='max-w-9' src={assets.remove_bg_icon} alt="" />
                     <div>
                         <p className='text-xl font-medium'>Remove background</p>
-                        <p className='text-sm text-neutral-500 mt-1'>Our AI will instantly process your image and remove the background with precision.
-                            <br />  No editing or design skills needed.</p>
+                        <p className='text-sm text-neutral-500 mt-1'>Our AI will instantly process your image and remove the
+                            <br /> background with precision. No editing skills needed.</p>
                     </div>
                 </div>
 
